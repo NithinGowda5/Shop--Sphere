@@ -4,10 +4,6 @@ Shop--Sphere is a modern and responsive e-commerce website built using **HTML**,
 
 ---
 
-![Shop--Sphere Screenshot](img/banner/preview.jpg) <!-- Optional if you have a preview image -->
-
----
-
 ## ✨ Features
 
 - ⚡ Fully Responsive Layout
