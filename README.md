@@ -1,34 +1,54 @@
 # 🛒 Shop--Sphere
 
-**Shop--Sphere** is a simple yet elegant E-Commerce website built primarily using **HTML**, styled with **CSS**, and enhanced with a touch of **JavaScript**. This project simulates a basic online shopping platform layout suitable for showcasing products and categories.
+Shop--Sphere is a modern and responsive e-commerce website built using **HTML**, **CSS**, and a little **JavaScript**. It is designed for showcasing products, promotional banners, and a smooth user experience across all devices.
 
 ---
 
-## 🌐 Live Preview
-
-> Coming Soon – You can deploy it using GitHub Pages, Netlify, or Vercel.
+![Shop--Sphere Screenshot](img/banner/preview.jpg) <!-- Optional if you have a preview image -->
 
 ---
 
-## 📁 Project Structure
+## ✨ Features
 
+- ⚡ Fully Responsive Layout
+- 🎯 Clean and Modern UI
+- 🧾 Multi-page Setup (Home, Shop, Blog, About, Contact, Cart)
+- 💡 Banner Sections for Offers & New Arrivals
+- ⭐ Product Cards with Ratings and Price
+- 📬 Newsletter Signup Section
+- 📱 Mobile-Friendly Navigation Menu
 
+---
+
+## 🛠️ Tech Stack
+
+| Frontend | Description             |
+|----------|-------------------------|
+| HTML5    | Structure               |
+| CSS3     | Styling + Responsiveness |
+| JavaScript | Menu Toggle Logic      |
+| Font Awesome | Icons                |
+
+---
+
+## 📂 Project Structure
 
 Shop--Sphere/
 ├── index.html
+├── shop.html
+├── blog.html
 ├── about.html
-├── products.html
 ├── contact.html
+├── cart.html
 ├── css/
-│   └── styles.css
+│ └── style.css
 ├── js/
-│   └── script.js
+│ └── script.js
 ├── img/
-│   ├── about/
-│   ├── banner/
-│   ├── blog/
-│   ├── features/
-│   ├── Pay/
-│   ├── People/
-│   └── Products/
-└── README.md
+│ ├── logo.png
+│ ├── hero4.png
+│ ├── features/
+│ ├── products/
+│ ├── banner/
+
+---
