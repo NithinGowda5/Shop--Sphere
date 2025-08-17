@@ -16,6 +16,13 @@ Shop--Sphere is a modern and responsive e-commerce website built using **HTML**,
 
 ---
 
+## 🖥️ Live Demo
+
+> Coming Soon
+> You can host this on GitHub Pages or Netlify to view it live.
+
+---
+
 ## 🛠️ Tech Stack
 
 | Frontend | Description             |
